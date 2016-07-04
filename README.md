@@ -1,2 +1,2 @@
 # anguPublicProject
-projet de test public
+projet de test accessible à tout le monde (public)
